@@ -1,3 +1,5 @@
+# Author: Amphiprion
+
 library(shiny) ; library(ggplot2) ; library(shinyapps) ; library(nlme) ; library(r2excel)
 
 # setwd("/Users/USER/Desktop/stage/stage_Paris/analyse_growth_tox_R/Tox_Mathieu/vers_de_terre/")

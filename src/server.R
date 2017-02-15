@@ -1,3 +1,5 @@
+# Author: Amphiprion
+
 library(shiny) ; library(ggplot2) ; library(shinyapps) ; library(nlme)
 
 function(session,input,output){
